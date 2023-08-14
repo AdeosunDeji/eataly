@@ -1,8 +1,8 @@
-#EATALY
+# EATALY
 
 EATALY is a restaurant web application called GERICHT. It is built with React
 
-Live Site: 
+Live Site: https://eataly.vercel.app/
 
 # Getting Started with Create React App
 
