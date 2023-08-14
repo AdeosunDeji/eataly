@@ -1,3 +1,9 @@
+#EATALY
+
+EATALY is a restaurant web application called GERICHT. It is built with React
+
+Live Site: 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
